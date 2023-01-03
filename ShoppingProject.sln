@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminPanel", "AdminPanel\AdminPanel.csproj", "{3B0A47D5-634B-42CF-880A-B22C0E189FBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminPanel", "AdminPanel\AdminPanel.csproj", "{3B0A47D5-634B-42CF-880A-B22C0E189FBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingManagment", "ShoppingManagment\ShoppingManagment.csproj", "{EDAD3379-1A51-4D4A-A37E-1F9880FCEAB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingManagment", "ShoppingManagment\ShoppingManagment.csproj", "{EDAD3379-1A51-4D4A-A37E-1F9880FCEAB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
